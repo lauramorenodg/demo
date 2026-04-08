@@ -1,0 +1,19 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --line-height-typography-line-height-10: var(--dimension-font-height-10);
+  --line-height-typography-line-height-12: var(--dimension-font-height-12);
+  --line-height-typography-line-height-14: var(--dimension-font-height-16);
+  --line-height-typography-line-height-16: var(--dimension-font-height-24);
+  --line-height-typography-line-height-18: var(--dimension-font-height-24);
+  --line-height-typography-line-height-20: var(--dimension-font-height-28);
+  --line-height-typography-line-height-24: var(--dimension-font-height-36);
+  --line-height-typography-line-height-28: var(--dimension-font-height-40);
+  --line-height-typography-line-height-32: var(--dimension-font-height-40);
+  --line-height-typography-line-height-36: var(--dimension-font-height-44);
+  --line-height-typography-line-height-48: var(--dimension-font-height-56);
+  --line-height-typography-line-height-64: var(--dimension-font-height-80);
+}

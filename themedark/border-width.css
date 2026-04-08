@@ -1,0 +1,10 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-themedark {
+  --border-width-border-size-default: var(--dimension-border-size-1);
+  --border-width-border-size-medium: var(--dimension-border-size-2);
+  --border-width-border-size-thick: var(--dimension-border-size-3);
+}

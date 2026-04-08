@@ -1,0 +1,19 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-themelight {
+  --font-size-typography-font-size-2xs: var(--dimension-font-size-10);
+  --font-size-typography-font-size-xs: var(--dimension-font-size-12);
+  --font-size-typography-font-size-sm: var(--dimension-font-size-14);
+  --font-size-typography-font-size-md: var(--dimension-font-size-16);
+  --font-size-typography-font-size-lg: var(--dimension-font-size-18);
+  --font-size-typography-font-size-xl: var(--dimension-font-size-20);
+  --font-size-typography-font-size-2xl: var(--dimension-font-size-24);
+  --font-size-typography-font-size-3xl: var(--dimension-font-size-28);
+  --font-size-typography-font-size-4xl: var(--dimension-font-size-32);
+  --font-size-typography-font-size-5xl: var(--dimension-font-size-48);
+  --font-size-typography-font-size-display-sm: var(--dimension-font-size-36);
+  --font-size-typography-font-size-display-lg: var(--dimension-font-size-64);
+}
