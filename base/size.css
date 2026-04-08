@@ -1,0 +1,28 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --size-breakpoint-phone: var(--dimension-breakpoint-375);
+  --size-breakpoint-tablet: var(--dimension-breakpoint-1024);
+  --size-breakpoint-web: var(--dimension-breakpoint-1440);
+  --size-breakpoint-web-large: var(--dimension-breakpoint-1920);
+  --size-components-height-size-xs: var(--dimension-spacing-32);
+  --size-components-height-buttons-lg: var(--dimension-spacing-48);
+  --size-components-height-buttons-sm: var(--dimension-spacing-32);
+  --size-components-height-inputs-sm: var(--dimension-spacing-48);
+  --size-components-height-inputs-lg: var(--dimension-spacing-80);
+  --size-components-height-tags-sm: var(--dimension-spacing-16);
+  --size-components-height-tags-md: var(--dimension-spacing-24);
+  --size-components-height-icons-xs: var(--dimension-spacing-12);
+  --size-components-height-icons-sm: var(--dimension-spacing-16);
+  --size-components-height-icons-md: var(--dimension-spacing-20);
+  --size-components-height-icons-lg: var(--dimension-spacing-24);
+  --size-components-height-icons-xl: var(--dimension-spacing-32);
+  --size-components-height-size-sm: var(--dimension-spacing-40);
+  --size-components-height-size-md: var(--dimension-spacing-48);
+  --size-components-height-size-lg: var(--dimension-spacing-60);
+  --size-components-height-tables-header: var(--dimension-spacing-40);
+  --size-components-height-tables-cell: var(--dimension-spacing-32);
+}

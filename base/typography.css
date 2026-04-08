@@ -1,0 +1,28 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --typography-heading-l-bold: 700 12rem/14rem "Mulish";
+  --typography-heading-l-regular: 400 12rem/14rem "Mulish";
+  --typography-heading-m-bold: 700 8rem/10rem "Mulish";
+  --typography-heading-m-regular: 400 8rem/10rem "Mulish";
+  --typography-heading-s-regular: 400 7rem/10rem "Mulish";
+  --typography-heading-s-bold: 700 7rem/10rem "Mulish";
+  --typography-subtitle-l-bold: 700 6rem/9rem "Mulish";
+  --typography-subtitle-l-semibold: 600 6rem/9rem "Mulish";
+  --typography-subtitle-m-bold: 700 5rem/7rem "Mulish";
+  --typography-subtitle-m-semibold: 600 5rem/7rem "Mulish";
+  --typography-subtitle-s-bold: 700 4.5rem/6rem "Mulish";
+  --typography-subtitle-s-semibold: 600 4.5rem/6rem "Mulish";
+  --typography-body-m-bold: 700 4rem/6rem "Mulish";
+  --typography-body-m-regular: 400 4rem/6rem "Mulish";
+  --typography-body-s-bold: 700 3.5rem/4rem "Mulish";
+  --typography-body-s-regular: 400 3.5rem/4rem "Mulish";
+  --typography-small-m-semibold: 600 3rem/3rem "Mulish";
+  --typography-small-m-regular: 400 3rem/3rem "Mulish";
+  --typography-heading-display: 900 16rem/20rem "Mulish";
+  --typography-small-s-semibold: 600 2.5rem/2.5rem "Mulish";
+  --typography-small-s-regular: 400 2.5rem/2.5rem "Mulish";
+}

@@ -1,0 +1,26 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --space-gap-none: var(--dimension-spacing-0);
+  --space-gap-3xs: var(--dimension-spacing-2);
+  --space-gap-2xs: var(--dimension-spacing-4);
+  --space-gap-xs: var(--dimension-spacing-8);
+  --space-gap-sm: var(--dimension-spacing-12);
+  --space-gap-md: var(--dimension-spacing-16);
+  --space-gap-lg: var(--dimension-spacing-20);
+  --space-gap-xl: var(--dimension-spacing-24);
+  --space-gap-2xl: var(--dimension-spacing-28);
+  --space-gap-3xl: var(--dimension-spacing-32);
+  --space-gap-4xl: var(--dimension-spacing-36);
+  --space-gap-5xl: var(--dimension-spacing-40);
+  --space-gap-6xl: var(--dimension-spacing-44);
+  --space-gap-7xl: var(--dimension-spacing-48);
+  --space-gap-8xl: var(--dimension-spacing-52);
+  --space-gap-9xl: var(--dimension-spacing-56);
+  --space-padding-container-mobile: var(--dimension-spacing-16);
+  --space-padding-container-tablet: var(--dimension-spacing-24);
+  --space-padding-container-desktop: var(--dimension-spacing-32);
+}

@@ -1,0 +1,10 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-themedark {
+  --shadow-s: 0rem 1rem 1rem 0rem rgb(34, 48, 60);
+  --shadow-m: 0rem 1rem 3rem 0rem rgb(34, 48, 60);
+  --shadow-l: 0rem 1rem 4rem 0rem rgb(34, 48, 60);
+}
